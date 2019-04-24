@@ -1,6 +1,6 @@
 Agile Apes v2.6
 
-Description
+Description:
 Agile Apes is a gamified learning app that aims to teach and subsequently test students on Agile application development.
 The learning material includes content on Agile fundamentals and terminology.
 The app implements an incentive based learning structure that rewards students with an in-game score which can then be
@@ -33,7 +33,7 @@ Functionalities:
 - Maps API to find participating stores
 - Quiz bank
 
-Dummy Facebook Login
+Dummy Facebook Login:
 With the implemented Facebook API, users must be invited by the developer to allow Agile Apes to access their Facebook account.
 To allow any Facebook user to login through Agile Apes, a privacy policy must be designed and all of the apps features must be
 available to the general public.
@@ -42,7 +42,7 @@ credentials was created to allow for testing of the API. The credentials are as 
 Email: harry_fdfhcam_schrocksky@ftbnw.net
 Password: testuser1
 
-Authors
+Authors:
 Vishal Nomula
 Ajay Mariswamy
 Srishti Jain
