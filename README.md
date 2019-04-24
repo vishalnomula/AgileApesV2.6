@@ -1,16 +1,16 @@
-Agile Apes v2.6
+# Agile Apes v2.6
 
-Description:
+## Description:
 Agile Apes is a gamified learning app that aims to teach and subsequently test students on Agile application development.
 The learning material includes content on Agile fundamentals and terminology.
 The app implements an incentive based learning structure that rewards students with an in-game score which can then be
 translated to tangible prizes (every 5 virtual bananas can be claimed for a real banana at participating stores).
 The app also provides a learning component which allows students to learn the material before attempting the quiz. 
 
-Compatibility:
+## Compatibility:
 Works most efficiently on Pixel 2 API 28.
 
-Features: 
+## Features: 
 - Reset Game
 - Images and icons of the jungle and apes
 - Randomly generated questions extracted from database of 15 questions
@@ -18,7 +18,7 @@ Features:
 - Interactive fill in the blank screen
 - Incentive based learning through rewards, both virtual and tangible
 
-Functionalities:
+## Functionalities:
 - Fill in the blank quiz
 - Settings page
 - About us page
@@ -33,7 +33,7 @@ Functionalities:
 - Maps API to find participating stores
 - Quiz bank
 
-Dummy Facebook Login:
+## Dummy Facebook Login:
 With the implemented Facebook API, users must be invited by the developer to allow Agile Apes to access their Facebook account.
 To allow any Facebook user to login through Agile Apes, a privacy policy must be designed and all of the apps features must be
 available to the general public.
@@ -42,7 +42,7 @@ credentials was created to allow for testing of the API. The credentials are as 
 Email: harry_fdfhcam_schrocksky@ftbnw.net
 Password: testuser1
 
-Authors:
+## Authors:
 Vishal Nomula
 Ajay Mariswamy
 Srishti Jain
