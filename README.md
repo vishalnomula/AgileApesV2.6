@@ -33,7 +33,7 @@ Works most efficiently on Pixel 2 API 28.
 - Maps API to find participating stores
 - Quiz bank
 
-## Dummy Facebook Login:
+## Facebook Login:
 With the implemented Facebook API, users must be invited by the developer to allow Agile Apes to access their Facebook account.
 To allow any Facebook user to login through Agile Apes, a privacy policy must be designed and all of the apps features must be
 available to the general public.
